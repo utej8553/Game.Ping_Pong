@@ -17,6 +17,6 @@ Java 8 or higher
 Swing (built into Java)
 
 # Future Improvements 🔧:
-Score tracking
+Score tracking  
 Multiple difficulty levels
 Sound effects
