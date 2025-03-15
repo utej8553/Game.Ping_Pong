@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Main extends JPanel implements ActionListener, KeyListener {
+public class PingPong1 extends JPanel implements ActionListener, KeyListener {
     private int compX = 250, compY = 250;
     private int DirX = 2, DirY = -2;
     private int paddleX = 200;
@@ -11,7 +11,7 @@ public class Main extends JPanel implements ActionListener, KeyListener {
     private final int PADDLE_HEIGHT = 10;
     private Timer timer;
 
-    public Main() {
+    public PingPong1() {
         setPreferredSize(new Dimension(500, 400));
         setBackground(Color.BLACK);
         setFocusable(true);
