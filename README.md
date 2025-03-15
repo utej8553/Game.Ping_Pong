@@ -1,22 +1,22 @@
-# Paddle Bounce Game 🎮
-A simple Java-based paddle game using Swing and AWT, where you control a paddle with A and D keys to prevent the ball from touching the ground. If the ball falls, the game automatically ends.  
-  
 # Features ✨:
-Smooth ball movement with basic collision detection  
-Paddle control using A (left) and D (right) keys  
-Auto-closes when the ball touches the ground  
-Simple and lightweight, built with Java Swing  
-
-# How to Play? 🎾:
-Run the Main.java file  
-Use A to move left, D to move right  
-Keep the ball from falling!  
-
-# Requirements 🖥️:
-Java 8 or higher  
-Swing (built into Java)  
-
-# Future Improvements 🔧:
-Score tracking  
-Multiple difficulty levels  
-Sound effects
+✔️ Smooth ball movement with improved collision detection  
+✔️ Paddle control using A (left) and D (right) keys  
+✔️ AI-controlled bot paddle for added challenge  
+✔️ High-score tracking to compete with your best performance  
+✔️ Option to replay after game over  
+  
+# How to Play? 🎾:   
+1️⃣ Run the Main.java file  
+2️⃣ Use A to move left, D to move right  
+3️⃣ Keep the ball from falling while competing against the bot!  
+  
+# Requirements 🖥️:  
+📌 Java 8 or higher  
+📌 Swing (built into Java)  
+  
+# Future Improvements 🔧:  
+🚀 Multiple difficulty levels  
+🔊 Sound effects  
+🌍 Online leaderboard  
+  
+# Try the game and see if you can beat the bot! 🚀🎾
