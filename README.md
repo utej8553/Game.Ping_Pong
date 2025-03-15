@@ -6,7 +6,7 @@
 ✔️ Option to replay after game over  
   
 # How to Play? 🎾:   
-1️⃣ Run the Main.java file  
+1️⃣ Run the .java file  
 2️⃣ Use A to move left, D to move right  
 3️⃣ Keep the ball from falling while competing against the bot!  
   
